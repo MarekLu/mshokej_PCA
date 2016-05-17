@@ -1,0 +1,16 @@
+# Ignore everything
+*
+
+# But not these files...
+!.gitignore
+!*.R
+!*.Rmd
+!README.md
+
+# ...even if they are in subdirectories
+!*/
+
+# Always ignore
+Auth.R
+.ga-token.rds
+.token
