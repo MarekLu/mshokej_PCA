@@ -6,6 +6,7 @@
 !*.R
 !*.Rmd
 !README.md
+!Corsi_Data_crosstab.csv
 
 # ...even if they are in subdirectories
 !*/
